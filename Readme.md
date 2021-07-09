@@ -1,9 +1,9 @@
 # Text Editor
-*** A Notepad like text editor built using Python's GUI library Tkinter ***
+***A Notepad like text editor built using Python's GUI Library Tkinter!***
 
 ![alt text](https://github.com/AbhiramiTS/text-editor/blob/main/text_editor.png)
 
-## Menus & Functionality:
+## Menus & Functionalites:
 
 ### File:
 * New
@@ -40,7 +40,7 @@
 * Ctrl-q: Exit
 * Ctrl-f: Find
 
-## REQUIREMENTS:
+## Requirements:
 
  - Python
  - TKinter
